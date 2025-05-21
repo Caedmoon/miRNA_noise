@@ -2,7 +2,11 @@
 title: "Stochastic Modelling of miRNA-Mediated Gene Noise"
 author: "Caedmon Emery"
 date: "`r Sys.Date()`"
-output: html_document
+output: 
+  github_document:
+    toc: true
+    toc_depth: 2
+knit: rmarkdown::render
 ---
 
 ---

@@ -128,7 +128,7 @@ Performs sensitivity analysis across different miRNA pool levels.
 # Acknowledgements
 
 This work builds on modelling approaches from Mukherji et al. (2011). Thanks to Ian Sudbery for project guidance, and the developers of `GillespieSSA2` for the simulation framework. All biological diagrams were created using BioRender.com. Permission was granted to upload code onto personal GitHub as long as the official project write-up was not included.
-AI usage: ChatGPT was used to streamline project writeup and double-checked by author. All work within the code was completed by Caed Emery.
+AI usage: ChatGPT was used to streamline project writeup and double-checked by author. All work within the code was completed by Caedmon Emery.
 
 ---
 # References

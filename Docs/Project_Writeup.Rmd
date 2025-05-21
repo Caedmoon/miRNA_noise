@@ -14,13 +14,13 @@ MicroRNAs (miRNAs) are non-coding RNAs that repress gene expression by targeting
 
 \
 
-![Biogenesis of miRNA molecules and mechanism of gene repression](Docs/Biology_diagram.png)
+![Biogenesis of miRNA molecules and mechanism of gene repression](Biology_diagram.png)
 
 \
 
 # Model Equations
 
-![Graphical Abstract of Model System](Docs/Equation_Graphics.png)
+![Graphical Abstract of Model System](Equation_Graphics.png)
 
 \
 

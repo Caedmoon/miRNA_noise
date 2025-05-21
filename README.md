@@ -23,7 +23,7 @@ approach based on work by Mukherji et al. (2011).
   
 
 <figure>
-<img src="Biology_diagram.png"
+<img src="docs/Biology_diagram.png"
 alt="Biogenesis of miRNA molecules and mechanism of gene repression" />
 <figcaption aria-hidden="true">Biogenesis of miRNA molecules and
 mechanism of gene repression</figcaption>
@@ -34,7 +34,7 @@ mechanism of gene repression</figcaption>
 # Model Equations
 
 <figure>
-<img src="Equation_Graphics.png"
+<img src="docs/Equation_Graphics.png"
 alt="Graphical Abstract of Model System" />
 <figcaption aria-hidden="true">Graphical Abstract of Model
 System</figcaption>

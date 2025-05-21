@@ -53,15 +53,15 @@ $$
 
 **2. Complex dynamics:**
 
-$$
+```math
 \frac{d[r^*]}{dt} = k_{on} * [miRNA] * [r] - k_{off} * [r^*] - \gamma_{r^*} * [r^*]
-$$
+```
 
 **3. Free miRNA dynamics:**
 
-$$
+```math
 \frac{d[miRNA]}{dt} = -k_{on} * [miRNA] * [r] + k_{off} * [r^*] + \gamma_{r^*} * [r^*]
-$$  
+```
 
 ### Model Parameters
 
